@@ -1,0 +1,36 @@
+{
+  "short_name": "GRE",
+  "name": "GRE Development",
+  "description": "يتم هنا كتابة وصف للموقع",
+  "icons": [
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#d13737",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "#d13737",
+  "screenshots": [
+    {
+      "src": "screenshot1.webp",
+      "sizes": "1280x720",
+      "type": "image/webp"
+    },
+    {
+      "src": "screenshot2.webp",
+      "sizes": "1280x720",
+      "type": "image/webp"
+    }
+  ],
+  "lang": "ar-AR",
+  "dir": "rtl"
+}
